@@ -2,8 +2,6 @@
 
 Welcome to FinMitra, your friendly AI assistant designed to simplify investing for everyone in India. This application provides personalized investment guidance, sample investment plans, and a dictionary of financial terms, all powered by generative AI.
 
-![FinMitra Screenshot](https://placehold.co/800x600.png)
-
 ## ✨ Features
 
 - **Personalized Investment Guidance**: Get tailored investment suggestions based on your age, income, risk tolerance, and financial goals.
